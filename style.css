@@ -39,7 +39,7 @@
 
 
 
-#name{
+#name, #age, #phone{
     font-size: 16px;
     text-align: center;
     border-bottom: 4px solid rgb(26, 244, 26);
@@ -48,29 +48,5 @@
     padding: 10px 30px;
     color: white;
     outline: none;
+    font-weight: bold;
 }
-
-
-#age{
-    font-size: 16px;
-    text-align: center;
-    border-bottom: 4px solid rgb(26, 244, 26);
-    border-radius: 2px 60px 2px 60px;
-    background-color: black;
-    padding: 10px 30px;
-    color: white;
-    outline: none;
-}
-
-
-#phone{
-    font-size: 16px;
-    text-align: center;
-    border-bottom: 4px solid rgb(26, 244, 26);
-    border-radius: 2px 60px 2px 60px;
-    background-color: black;
-    padding: 10px 30px;
-    color: white;
-    outline: none;
-}
-
