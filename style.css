@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+
+.contain{
+    border: 5px solid rgb(26, 244, 26);
+    padding: 70px;
+    border-radius: 2px 60px 2px 60px; 
+    background-color: black;
+    color: white;
+    font-size: 18px;
+}
+
+
+
+.contain h2{
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid rgb(26, 244, 26);
+    border-radius: 5px 60px 5px 60px;
+    padding: 2px;
+    margin-bottom: 40px;
+}
+
+
+#submit{
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-left: 88px;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 6px 10px;
+}
+
+
+
+#name, #age, #phone{
+    font-size: 16px;
+    text-align: center;
+    border-bottom: 4px solid rgb(26, 244, 26);
+    border-radius: 2px 60px 2px 60px;
+    background-color: black;
+    padding: 10px 30px;
+    color: white;
+    outline: none;
+    font-weight: bold;
+    font-style: italic;
+    caret-color: greenyellow;
+}
+
+
