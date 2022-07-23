@@ -28,12 +28,15 @@
 
 #submit{
     text-align: center;
+    background-color: rgb(26, 244, 26);
+    color: white;
+    border: none;
     font-weight: bold;
     display: flex;
     justify-content: center;
     margin-left: 88px;
     font-size: 20px;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 6px 10px;
 }
 
