@@ -37,12 +37,6 @@
     padding: 6px 10px;
 }
 
-
-input[type='text'], input[type='number'], input[type='tel']{
-    font-weight: bold;
-    font-style: italic;
-}
-
 #name, #age, #phone{
     font-size: 16px;
     text-align: center;
