@@ -48,4 +48,6 @@
     padding: 10px 30px;
     color: white;
     outline: none;
+    font-weight: bold;
+    font-style: italic;
 }
